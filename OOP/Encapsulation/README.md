@@ -1,3 +1,4 @@
+# Tutotrial video can be found here: https://youtu.be/xsW6Lm8fSvU?si=7qWrk-EEt8lN2t9H
 # Bank Account Class with Protected and Private Attributes
 
 ## Overview
